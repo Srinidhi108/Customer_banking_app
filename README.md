@@ -45,6 +45,11 @@ public class Hello {
 ```
 
 <img width="1440" height="900" alt="Screenshot 2026-04-22 at 11 47 00 AM" src="https://github.com/user-attachments/assets/ebcf4575-5796-4f01-9938-23dd2db7377b" />
+</br>
+Testing in POSTMAN:
+
+<img width="1266" height="743" alt="Screenshot 2026-04-22 at 11 58 13 AM" src="https://github.com/user-attachments/assets/f8e1821c-49d2-4fd1-bf9a-06ac5d7d4cc8" />
+
 
 
 
