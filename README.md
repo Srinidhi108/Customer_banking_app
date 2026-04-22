@@ -298,6 +298,15 @@ A spring boot setup as usual - using spring initializr
 
 </br>
 
+<img width="1439" height="107" alt="Screenshot 2026-04-23 at 12 12 54 AM" src="https://github.com/user-attachments/assets/19ae5958-bd89-4fa8-987d-a5e12d933bee" />
+
+<img width="1267" height="757" alt="Screenshot 2026-04-23 at 12 13 10 AM" src="https://github.com/user-attachments/assets/344bd661-0a8f-4b01-986b-fe80b541817a" />
+
+The same operations will be done for GET, PUSH
+
+
+
+
 
 
 
