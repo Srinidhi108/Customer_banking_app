@@ -290,6 +290,18 @@ The database itself:
 
 <img width="1259" height="208" alt="Screenshot 2026-04-22 at 7 44 09 PM" src="https://github.com/user-attachments/assets/3ec1e12c-43a6-48c9-98ef-6c04e1f9537a" />
 
+### LAB 5 & 6 : CRUD application with Spring boot
+
+CRUD are operations performed on data (resources), exposed through APIs using HTTP methods
+
+A spring boot setup as usual - using spring initializr
+
+</br>
+
+
+
+
+
 
 
 
