@@ -286,6 +286,11 @@ GET:
 
 <img width="1272" height="792" alt="Screenshot 2026-04-22 at 7 41 19 PM" src="https://github.com/user-attachments/assets/b158be7a-a5df-4765-a77f-3d1faa8b06ae" />
 
+The database itself:
+
+<img width="1259" height="208" alt="Screenshot 2026-04-22 at 7 44 09 PM" src="https://github.com/user-attachments/assets/3ec1e12c-43a6-48c9-98ef-6c04e1f9537a" />
+
+
 
 
 
