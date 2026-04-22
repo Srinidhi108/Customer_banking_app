@@ -239,6 +239,71 @@ Audit columns : Used for tracking
 *Insert-only Paradigm* is where DELETION AND UPDATION never takes place but only INSERTING as new rows happens. This to maintain proper history without losing past information.
 
 
+### LAB 3 : RestAPI
+
+**Description** : Building my very own RestAPI
+
+After setting up mysql server, we configure a new spring boot project using spring initializr(https://start.spring.io)
+
+<img width="1440" height="817" alt="Screenshot 2026-04-22 at 6 20 36 PM" src="https://github.com/user-attachments/assets/8d39769d-5cad-4364-8b5f-fe0fc65fae6a" />
+
+</br> Once this is downloaded, we configure the *application.properties* file. 
+
+</br>
+Layered architecture :
+
+* The presentation layer: It contains all categories related to the presentation layer.
+* The business layer: It contains business logic.
+* The persistence layer: It’s used for handling functions like object-relational mapping
+* The database layer: This is where all the data is stored.
+
+Spring-boot flow architecture:
+
+* Controller layer : Handles incoming API requests
+* Service layer : Handles the business logic
+* Repository layer : Talks to the database
+* Database layer : The layer where data is stored
+
+</br> 
+
+We make 4 packages and 4 java classes(in each package) - entity ,repository ,service , controller.
+
+</br>
+
+One API was built which established a connection between mysql and **Customer Details** table(one of the tables we created, refer LDM)
+
+</br>
+
+Running on localhost:8080/api/users
+
+<img width="1440" height="373" alt="Screenshot 2026-04-22 at 7 39 44 PM" src="https://github.com/user-attachments/assets/02d7d52a-0845-4a4a-bf15-1aa7f43cda0a" />
+
+POST:
+
+<img width="1272" height="791" alt="Screenshot 2026-04-22 at 7 40 44 PM" src="https://github.com/user-attachments/assets/b09a5622-aff8-49b7-b875-26c1f054095c" />
+
+GET:
+
+<img width="1272" height="792" alt="Screenshot 2026-04-22 at 7 41 19 PM" src="https://github.com/user-attachments/assets/b158be7a-a5df-4765-a77f-3d1faa8b06ae" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
